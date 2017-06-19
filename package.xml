@@ -3,6 +3,7 @@
     <version>37.0</version>
     <types>
         <members>AccCls1</members>
+        <members>AccCls2</members>
         <name>ApexClass</name>
     </types>
 </Package>
