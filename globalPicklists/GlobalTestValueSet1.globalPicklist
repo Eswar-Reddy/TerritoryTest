@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalPicklist xmlns="http://soap.sforce.com/2006/04/metadata">
+    <globalPicklistValues>
+        <fullName>aa</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <globalPicklistValues>
+        <fullName>bb</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <globalPicklistValues>
+        <fullName>cc</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <globalPicklistValues>
+        <fullName>dd</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <globalPicklistValues>
+        <fullName>ee</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <globalPicklistValues>
+        <fullName>ff</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <globalPicklistValues>
+        <fullName>gg</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <globalPicklistValues>
+        <fullName>hh</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <masterLabel>GlobalTestValueSet1</masterLabel>
+    <sorted>false</sorted>
+</GlobalPicklist>
