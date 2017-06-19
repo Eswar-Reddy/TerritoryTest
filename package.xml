@@ -58,21 +58,4 @@
         <members>GlobalTestValueSet1</members>
         <name>GlobalPicklist</name>
     </types>
-    <types>
-        <members>ChildTerritoryTest2</members>
-        <members>TerritoryTest1</members>
-        <name>Territory2</name>
-    </types>
-    <types>
-        <members>TerritoryModelTest1</members>
-        <name>Territory2Model</name>
-    </types>
-    <types>
-        <members>TrModel1Rule1</members>
-        <name>Territory2Rule</name>
-    </types>
-    <types>
-        <members>TerritoryType4</members>
-        <name>Territory2Type</name>
-    </types>
 </Package>
