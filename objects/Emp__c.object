@@ -56,16 +56,16 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>Emp2CardType__c</fullName>
+        <fullName>EmpPreferWorkTimings__c</fullName>
         <externalId>false</externalId>
-        <label>Emp2CardType</label>
+        <label>EmpPreferWorkTimings</label>
         <picklist>
             <picklistValues>
-                <fullName>Visa</fullName>
-                <default>false</default>
+                <fullName>Morning</fullName>
+                <default>true</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Platinum</fullName>
+                <fullName>Afternoon</fullName>
                 <default>false</default>
             </picklistValues>
             <restrictedPicklist>true</restrictedPicklist>
@@ -76,14 +76,13 @@
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
     </fields>
-    <label>Emp2</label>
+    <label>Emp</label>
     <nameField>
-        <label>Emp2 Name</label>
+        <label>Emp Name</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Emp2s</pluralLabel>
-    <recordTypeTrackHistory>false</recordTypeTrackHistory>
+    <pluralLabel>Emps</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

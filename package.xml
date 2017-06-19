@@ -21,6 +21,8 @@
     </types>
     <types>
         <members>COBjS__c.COBjSEmail2__c</members>
+        <members>Emp2__c.Emp2CardType__c</members>
+        <members>Emp__c.EmpPreferWorkTimings__c</members>
         <members>ExtObj3__x.ExtObj3Cites__c</members>
         <members>ExtObj3__x.ExtObj3PickList1__c</members>
         <members>ExtObj3__x.ExtObj3PickList2__c</members>
@@ -28,6 +30,7 @@
     </types>
     <types>
         <members>Emp2__c</members>
+        <members>Emp__c</members>
         <members>ExObj1__x</members>
         <members>ExObj2__x</members>
         <members>ExtObj3__x</members>
