@@ -6,6 +6,7 @@
         <members>AccCls1</members>
         <members>AccCls2</members>
         <members>AccCls3</members>
+        <members>AccCls4</members>
         <name>ApexClass</name>
     </types>
     <types>
